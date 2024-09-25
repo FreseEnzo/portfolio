@@ -6,7 +6,7 @@ sidebar_label: Estrutura de Frases
 
 # Estrutura de Frases em Alemão
 
-Esta página fornece uma visão geral da estrutura de frases em alemão, cobrindo os principais tempos verbais, tanto na voz ativa quanto na passiva. 
+Visão geral da estrutura de frases em alemão, cobrindo os principais tempos verbais, tanto na voz ativa quanto na passiva. 
 
 ## Sumário
 
