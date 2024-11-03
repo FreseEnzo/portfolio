@@ -96,4 +96,4 @@ _January 2022 - December 2026 (Expected)_
 
 ### About Me
 
-Driven by a passion for robotics and innovation, I am committed to leveraging technology to solve complex problems and automate processes that enhance daily life. My journey in embedded systems has equipped me with the technical and leadership skills to make a meaningful impact in the field. Let's connect and explore opportunities to work together on pioneering projects in embedded systems and IoT!
+Driven by a passion for robotics and innovation, I am committed to leveraging technology to solve complex problems and automate processes that enhance daily life. My journey in embedded systems has equipped me with the technical and leadership skills to make a meaningful impact in the field. Let's connect and explore opportunities to work together on pioneering projects in embedded systems and IoT!aa
