@@ -1,0 +1,24 @@
+{
+  "id": "Projects/SSL Robot",
+  "title": "SSL Robot",
+  "description": "",
+  "source": "@site/docs/Projects/SSL Robot.md",
+  "sourceDirName": "Projects",
+  "slug": "/Projects/SSL Robot",
+  "permalink": "/frese-portfolio/docs/Projects/SSL Robot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/SSL Robot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nucleo H723-ZG Education Board",
+    "permalink": "/frese-portfolio/docs/Projects/Nucleo H723-ZG Education Board"
+  },
+  "next": {
+    "title": "electric-skateboard",
+    "permalink": "/frese-portfolio/docs/Projects/electric-skateboard"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Projects/electric_skateboard/electric_skateboard",
+  "title": "electric_skateboard",
+  "description": "Aaaaaaaaaaaaa",
+  "source": "@site/docs/Projects/electric_skateboard/electric_skateboard.md",
+  "sourceDirName": "Projects/electric_skateboard",
+  "slug": "/Projects/electric_skateboard/",
+  "permalink": "/docs/Projects/electric_skateboard/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/electric_skateboard/electric_skateboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Projects/Modular Multi Buck Boost Converter",
+  "title": "Modular Multi Buck Boost Converter",
+  "description": "",
+  "source": "@site/docs/Projects/Modular Multi Buck Boost Converter.md",
+  "sourceDirName": "Projects",
+  "slug": "/Projects/Modular Multi Buck Boost Converter",
+  "permalink": "/frese-portfolio/docs/Projects/Modular Multi Buck Boost Converter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projects/Modular Multi Buck Boost Converter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Indoor Mapping",
+    "permalink": "/frese-portfolio/docs/Projects/Indoor Mapping"
+  },
+  "next": {
+    "title": "Nucleo H723-ZG Education Board",
+    "permalink": "/frese-portfolio/docs/Projects/Nucleo H723-ZG Education Board"
+  }
+}

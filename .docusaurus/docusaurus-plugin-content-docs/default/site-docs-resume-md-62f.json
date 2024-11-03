@@ -1,0 +1,24 @@
+{
+  "id": "resume",
+  "title": "Enzo Frese - Resume",
+  "description": "Embedded Software | Firmware Enginner",
+  "source": "@site/docs/resume.md",
+  "sourceDirName": ".",
+  "slug": "/resume",
+  "permalink": "/portfolio/docs/resume",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resume.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "resume",
+    "title": "Enzo Frese - Resume",
+    "sidebar_label": "Resume"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "electric-skateboard",
+    "permalink": "/portfolio/docs/projects/electric-skateboard"
+  }
+}

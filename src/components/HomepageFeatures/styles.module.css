@@ -1,0 +1,35 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #f0f0f0;
+  color: black;
+  padding: 0.25em 0.5em;
+  margin: 0.25em;
+  border-radius: 4px;
+  font-size: 0.85em;
+  border: 1px solid #ccc;
+}
+
+.docsLink {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.docsLink:hover {
+  text-decoration: underline;
+}
+
+
+
